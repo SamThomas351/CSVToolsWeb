@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CSV Tools",
   "resources": {
-    "hash": "sha256-ctgnhhmE/q5m5BZaXFw+mGTDrzUOlm7oV1SfJsz99y4=",
+    "hash": "sha256-nNlElvC7Aab/RYfs+6go/gqeQJfjJshFKxwuE0+8DCE=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.ais9hk7mpu.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "CSV Tools.wasm": "sha256-57OuWlpwRFerTrAZxmshY21w5h7BV1B5L8hIakI2MtM=",
+      "CSV Tools.wasm": "sha256-sr1w3pNozuu1OmIMLWDUwly+hINkpHi9n5v1T/mYN7s=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-1V+QeYmdKL3VdCI5QU41fK9zI3mEUMmdZ0A9TA80/H8=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-82QdfXZgE9G9952C7+hN6fhyGjiNln1BWL5b7vAZv4A=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-dXuAp9EUTvm9L6lgrT1sI0yBTaIEkS6atRqtfKJYHYY=",
@@ -60,7 +60,7 @@
       "System.Runtime.Numerics.wasm": "sha256-x89l3Ol3j+ysSDX6hV/rHJZQqbqISOLmybyMDYM9gB4=",
       "System.Runtime.Serialization.Formatters.wasm": "sha256-dghvnkiC+1cTJpPwDgvhFJlUkF+1CZumC4OoCzolq9s=",
       "System.Runtime.Serialization.Primitives.wasm": "sha256-9gYIKrX5QYKGmDbreVS9J8SA1uQzYECZtcM3W9u5InU=",
-      "System.Runtime.wasm": "sha256-xZ/1dEuf6PSeXLuZrd8TUoT4QvNJKpfHLsWjSBt2cE8=",
+      "System.Runtime.wasm": "sha256-WAE5bCIKOv8oQbpThIrVaL/9Pb86KdvIO4NGoqaRJdA=",
       "System.Security.Cryptography.wasm": "sha256-SeBEBuYE5LHQWxNy3WNKCw0S5U/lcZRBSjV5qJ3fi8E=",
       "System.Text.Encodings.Web.wasm": "sha256-V69v6JYAgTsrgM4epAyn/+1+KjM60Hxzokb2hKtbPt0=",
       "System.Text.Json.wasm": "sha256-75ldeLzwSWQwBrbTTj1MLCgXhN1jCz5wn6iN2sXny7E=",
