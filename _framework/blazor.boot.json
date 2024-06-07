@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CSV Tools",
   "resources": {
-    "hash": "sha256-nNlElvC7Aab/RYfs+6go/gqeQJfjJshFKxwuE0+8DCE=",
+    "hash": "sha256-glzPZ7DW6sBOLsOVrjAYR5Uc2bQebfKyExLQrMtVUWY=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.ais9hk7mpu.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "CSV Tools.wasm": "sha256-sr1w3pNozuu1OmIMLWDUwly+hINkpHi9n5v1T/mYN7s=",
+      "CSV Tools.wasm": "sha256-lzNZwY525p4/vvYXPx2PrGuh572KZl2eQU3++yupwrM=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-1V+QeYmdKL3VdCI5QU41fK9zI3mEUMmdZ0A9TA80/H8=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-82QdfXZgE9G9952C7+hN6fhyGjiNln1BWL5b7vAZv4A=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-dXuAp9EUTvm9L6lgrT1sI0yBTaIEkS6atRqtfKJYHYY=",
